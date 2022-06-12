@@ -175,4 +175,8 @@ button:hover {
     .text h2 {
         font-size: 2.5em;
     }
+
+    .showcase.active {
+        top: 30%;
+    }
 }
